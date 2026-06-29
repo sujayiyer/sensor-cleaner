@@ -44,7 +44,7 @@ anything.
 
 1. Open the notebook:
 
-       jupyter notebook sensor_cleaner.ipynb
+       jupyter notebook sensor_data_cleaner.ipynb
 
 2. Run the cells from top to bottom, in order. Notebooks share state between
    cells, so skipping around can cause confusing errors.
