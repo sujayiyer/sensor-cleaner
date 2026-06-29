@@ -53,12 +53,6 @@ anything.
    then point the loader at the real UCI file.
 
 
-## A note on secrets
-
-This project is local-only and does not use any API keys. If you later extend
-it to pull live data from an online source, keep any keys in a git-ignored
-`.env` file and load them with python-dotenv. Never hardcode a key in the
-notebook or print it to the output.
 
 ## License
 
